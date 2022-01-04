@@ -1,0 +1,1062 @@
+Package: netskao.3dnetworkfixer
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 592
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.3dnetworkfixer_1.1-6_iphoneos-arm.deb
+Size: 164854
+MD5sum: 06b8960b494c251315439e8a7922749d
+SHA1: 21ebd266688f216a9d525d201032b5e9f6ce88bd
+SHA256: cf555b7fbd2c555166527b67e224f1232f8836623f4b3682fdbc8d05982db8b4
+Section: Netskao-Tweaks
+Description: 长按桌面图标唤出应用菜单，快捷修复该应用的联网权限，支持iOS10-iOS14
+Author: Netskao
+Name: 3DNetworkFixer
+
+Package: netskao.alipayhooks
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.alipayhooks_1.1-2_iphoneos-arm.deb
+Size: 54404
+MD5sum: c82424f10dc1a5b7d92491d56e966ebe
+SHA1: bc664eeed85e31d146cf10da11fff2b407e5acdb
+SHA256: ae4e4a7e538f8f6bf4156cc35fec5fcfef3939dbb026f56f5a1c20bc22c5f362
+Section: Netskao-Tweaks
+Description: 支付宝去除底部理财和口碑或生活选项，去除底部红点显示等，理财是不可能理财的，只有收收钱勉强维持生活
+Author: Netskao
+Name: 支付宝 Hooks
+
+Package: netskao.alipaynoads
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.alipaynoads_1.1-3_iphoneos-arm.deb
+Size: 79336
+MD5sum: 687f17530f865cd5faad3bebdb4e0ec3
+SHA1: 945a86d76d0a7f063a618244d85d6ffff5494ce1
+SHA256: cff0d4160a8b5d62197de9ebeef37720b5fd0a8e31ab058864b53be666311d19
+Section: Netskao-NoAds
+Description: 支付宝去除首页推荐，去除底部理财和口碑选项和红点等，理财是不可能理财的，只有收收钱勉强维持生活，增加消息页面摇一摇一键已读消息
+Author: Netskao
+Name: 支付宝 NoAds
+
+Package: netskao.alipaynoads
+Version: 1.1-5.1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.alipaynoads_1.1-5.1_iphoneos-arm.deb
+Size: 80878
+MD5sum: facd976978ae195751a9a429058b0dbf
+SHA1: 167c7c6f13ef75863e9c69dc0e0103117a6ef5a0
+SHA256: 9364600aa2837cd56642fc2b123ca4f1dd6f2b132fee7ab4c926b32f6648e66f
+Section: Netskao-NoAds
+Description: 支付宝去除首页推荐，去除底部理财和口碑选项和红点等，理财是不可能理财的，只有收收钱勉强维持生活，增加消息页面摇一摇一键已读消息
+Author: Netskao
+Name: 支付宝 NoAds
+
+Package: netskao.appdata
+Version: 1.3.6-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 976
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.appdata_1.3.6-7_iphoneos-arm.deb
+Size: 206374
+MD5sum: 869e2b488e7b885e5a676bdff1c4b145
+SHA1: e1076a42f0bcc89a1bb0d15d4b263f8e992b2d04
+SHA256: aa2a79811f937a137fdb6060deb9256629be1fc677b3a20a7b92d79aff2c3a87
+Section: Netskao-Tweaks
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
+Author: Fouad Raheb
+Name: AppData
+
+Package: netskao.appsmanagercrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 92
+Depends: mobilesubstrate, com.tigisoftware.appdatamanager
+Filename: ./debs/netskao.appsmanagercrack_1.1-7_iphoneos-arm.deb
+Size: 18802
+MD5sum: 0dba224f9c0ce4a0a31f1098aaab023f
+SHA1: c2eaf41702e8f130747879f2fe2f07492b834852
+SHA256: b4454f14ea8f2cfd07a9aeca50be02fdb324105c87450a3594c81903a49dc588
+Section: Netskao-Cracks
+Homepage: https://tigisoftware.com/cydia/
+Description: Apps Manager解锁全功能无限制，主程序官方源安装即可
+Author: Netskao
+Name: Apps Manager Crack
+
+Package: netskao.appstore++zhcn
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
+Filename: ./debs/netskao.appstore++zhcn_1.1-9_iphoneos-arm.deb
+Size: 39732
+MD5sum: 6cae84d8619c85ea0daefa946e29c527
+SHA1: e30c911b8df209bfef67a4c9fa9d68c2663b4ab1
+SHA256: 6c7856d3bc8ecc761665cc5d833679aa73363ef3e631dc535238de2f1922cae0
+Section: Netskao-Tweaks
+Homepage: https://cokepokes.github.io/
+Description: AppStore++简体中文汉化包，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，主程序官方源https://cokepokes.github.io/
+Author: Netskao
+Name: AppStore++zh_CN
+
+Package: netskao.appstore++zhcn
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
+Filename: ./debs/netskao.appstore  zhcn_1.1-9_iphoneos-arm.deb
+Size: 52084
+MD5sum: 3d1a3a9ea7872bc4c2f28d971e33f2ec
+SHA1: 441e68a35180ac6b379ab3551cc79f5da71731b7
+SHA256: 789cad9d3e03b0d3a105bcab102c8dcb6125946eb59f3f072b449ade1ee6aec7
+Section: Netskao-Tweaks
+Homepage: https://cokepokes.github.io/
+Description: AppStore++简体中文汉化包，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，主程序官方源https://cokepokes.github.io/
+Author: Netskao
+Name: AppStore++zh_CN
+
+Package: netskao.awemepurification
+Version: 2.3-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.awemepurification
+Filename: ./debs/netskao.awemepurification_2.3-4_iphoneos-arm.deb
+Size: 153744
+MD5sum: d13da5dcd78f94425923c5f1c11acaa5
+SHA1: c7774fe22b80592fcf41e095ead339925ec48959
+SHA256: 16210f8d40535e1ec97645bb846d3b8b8f401d9ee6ac273975fe05c639c3f04d
+Section: Netskao-Tweaks
+Description: 抖音净化！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(最后完美兼容版本16.2.0)，此插件已停止维护！！！
+Author: Netskao
+Name: 抖音净化
+
+Package: netskao.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.bdtbnoads_1.2-8_iphoneos-arm.deb
+Size: 66692
+MD5sum: 13508cbfe9e1de3bd5d270d7ea5605ef
+SHA1: ba5667cdb33c246fc079cfb1e7a68ad3daff8ffc
+SHA256: d5e82a8df2905afa8a8e9b7e232cc2e41b040ef848acb0dcd8c62f2dd7e7ad37
+Section: Netskao-NoAds
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Name: 百度贴吧 NoAds
+
+Package: netskao.bdwphooks
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 252
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.bdwphooks_1.1-4_iphoneos-arm.deb
+Size: 61524
+MD5sum: db91f52099b4d54ca82e48bbf46432c9
+SHA1: 2bcf5b3352a25afc728a94eba314b4ebf4dc3628
+SHA256: 0858d7453f21a59f985cebd37cc6ae4e3ebabe7010ece6ebd8cc92d0e1594520
+Section: Netskao-Tweaks
+Description: 为百度网盘下载文件列表增加直接分享文件功能和快速在Filza中查看该文件功能，免去每次进入路径寻找文件的繁琐方式，使用方式:长按已下载文件即可。另外附加去除所有广告等
+Author: Netskao
+Name: 百度网盘 Hooks
+
+Package: netskao.bilibilinoads
+Version: 1.4-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 424
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.bilibilinoads_1.4-6_iphoneos-arm.deb
+Size: 115378
+MD5sum: 50e7e19b7298716cab751373b9592211
+SHA1: 8159cf20ebb1e2a255490be5c02cb9f80659611a
+SHA256: 1127c830ba3e7832c4eb56bb084539f724c7a149f5f907bfd76f15b3cd7b5b90
+Section: Netskao-NoAds
+Description: 哔哩哔哩，哔哩哔哩概念去除启动广告，去除首页推荐视频中的广告和直播和顶部广告，去除播放窗口下方随机出现的广告，去除播放页面推荐视频中随机出现的广告和课程，去除动态信息流中的广告，去除青少年提示，禁用越狱检测(检测状态表现为购买大会员开通失败)，可选禁用底部按钮，可选禁用我的页面板块等，详情前往哔哩哔哩设置页面右上角设置
+Author: Netskao
+Name: 哔哩哔哩 NoAds
+
+Package: netskao.bilibilipure
+Version: 1.2-3.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 20599
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/netskao.bilibilipure_1.2-3.1_iphoneos-arm.deb
+Size: 6717020
+MD5sum: 8f355ea815fd9a6273f8a5fd963913b1
+SHA1: b38ad62de17a1aa2874f205b4333d137257a16ae
+SHA256: 6527e35c3151074de3a0f724832f1b66bcc85780a9ae361005181b2211a169bc
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bilibilipureDp
+Description: 哔哩哔哩净化，净化详情查看预览图，设置位于哔哩哔哩-设置页面顶部右上角
+Tag: purpose::extension
+Author: Netskao <netskao@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bilibilipureDp
+Dev: netskao
+Name: 哔哩哔哩净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.ccpower
+Version: 1.8-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 476
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Filename: ./debs/netskao.ccpower_1.8-8_iphoneos-arm.deb
+Size: 93592
+MD5sum: 9fdad6858c1ff1ad1a092e908ea6bf2c
+SHA1: d5d2182ad39e21b132e4d09264f6d6684e556164
+SHA256: 579c732f3512795d60f4e035d01837e949c4bca2c56c57cd10957ec26745635a
+Section: Netskao-Tweaks
+Description: 通过控制中心快捷关机，重启，注销，软重启，安全模式，重建桌面，重启用户空间，所有操作均有二次确定，显示电池健康百分比，显示电池循环次数，显示运行时间，显示设备总空间和可用空间，显示设备总运存和可用运存，可选点击窗口外关闭，可选锁屏时允许唤出，支持iOS11-14，在控制中心设置页面可设置需要显示的功能
+Author: Netskao
+Name: CCPower
+
+Package: netskao.cnnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.cnnoads_1.2-1_iphoneos-arm.deb
+Size: 56732
+MD5sum: 283377df7b7eeeca37049ae5944e9f06
+SHA1: f4091a4e17559f6f3cd524ec9e39439614a91865
+SHA256: e1c9ab0f30eca4e428b3558288c28543cb2ee70a8688f502d9e41a2555264437
+Section: Netskao-NoAds
+Description: 菜鸟去除启动广告，去除列表推荐广告，去除顶部广告，去除随机悬浮推荐横幅，去除底部发现和裹裹购按钮等
+Author: Netskao
+Name: 菜鸟 NoAds
+
+Package: netskao.dbnoads
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 352
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.dbnoads_1.1-9_iphoneos-arm.deb
+Size: 106872
+MD5sum: a1a0e0877ec73a583db1301eab7db37a
+SHA1: 0956523e06dd274d969b9598bd3cdffd9c05418f
+SHA256: d7365748d29139770e4288fe9a9d2362f25dba3badc3ba60051380bc272d5b4a
+Section: Netskao-NoAds
+Description: 豆瓣去除启动广告，去除首页信息流广告，去除影评中广告，去除集市中广告，去除底部市集按钮，增加原始按钮保存图片去水印
+Author: Netskao
+Name: 豆瓣 NoAds
+
+Package: netskao.disableshuttersound
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Replaces: netskao.nophotoshutter
+Filename: ./debs/netskao.disableshuttersound_1.1-1_iphoneos-arm.deb
+Size: 3632
+MD5sum: 089bcc9a7aadf78d6b92e1db4b3459e8
+SHA1: c3c07400861b0a755db5479fec390dfed8d2ad80
+SHA256: ffca7ed176c5fdd045b17747fbc247d99d7c63ebf788fea3ffc4d992b6c37481
+Section: Netskao-Tweaks
+Description: 禁用快门声音，以编程方式非脚本
+Author: Netskao
+Name: DisableShutterSound
+
+Package: netskao.dumpdecrypter
+Version: 1.2-9.4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.dumpdecrypter_1.2-9.4_iphoneos-arm.deb
+Size: 235288
+MD5sum: e6f0edcb5c17fa6c382ba06229819e12
+SHA1: 07ef69e0344c48600d8139e0d489ef1bf3e79c66
+SHA256: 01f41b84185c711377b3d88ea99aaefa5b70894b6664adc18122417b7a48f275
+Section: Netskao-Tweaks
+Description: DumpDecrypter是基于dumpdecrypted的修改封装，使用方式：通过桌面的DumpDecrypter应用程序选择需要解密的应用，增加可选修改版本限制，可选删除跳转URL，可选删除设备限制，可选删除包内小组件，可选删除包内手表组件，可选修复白图标，解密完整应用并导出至/var/mobile/Documents/DumpDecrypter，选择应用后自动杀掉应用进程重新开始，解密前加载所有Frameworks，解密前停止所有非解密线程，解密完成后自动恢复等(解密后的IPA如果你要直接安装，建议重签名，无论使用的签名证书是否有效，否则某些环境会出现闪退等问题)
+Author: Netskao
+Name: DumpDecrypter
+
+Package: netskao.fgysnoads
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.fgysnoads_1.1-3_iphoneos-arm.deb
+Size: 56300
+MD5sum: a00d04b18bc9880d23c40490840cd4ca
+SHA1: fddab83931764d54b91bf25090f573a42c3e1fb8
+SHA256: 09212370a909ad65845032f44a256cc1a5a28d76a9ec000e5f2e4628f1a0851f
+Section: Netskao-NoAds
+Homepage: https://apps.apple.com/cn/app/%E9%A3%9E%E7%93%9C%E5%BD%B1%E8%A7%86-%E5%BD%B1%E8%AF%84%E4%B8%96%E7%95%8C/id1574506424
+Description: 飞瓜影视去除启动广告，去除所有插入广告，暂停广告等，解锁需观看广告才可播放的限制
+Author: Netskao
+Name: 飞瓜影视 NoAds
+
+Package: netskao.filzacrack
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 172
+Depends: mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/netskao.filzacrack_1.1-7_iphoneos-arm.deb
+Size: 25284
+MD5sum: 3f6fca53a85ec56d1b4d05ff88785f99
+SHA1: ca777c821255b0022c2bbe57e0c4e1c3e1f45794
+SHA256: 9d221235328c5f3f2e556ab06820f810acdeed4f25816fccd0c4aa01c17ab2f9
+Section: Netskao-Cracks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza解锁全功能无限制，主程序官方源安装即可
+Author: Netskao
+Name: Filza Crack
+
+Package: netskao.flexlist
+Version: 1.3-3.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 10764
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.flexlist_1.3-3.3_iphoneos-arm.deb
+Size: 2241548
+MD5sum: b5091de7e9c051e8f3eb6cb7fd3d8548
+SHA1: ec26451878967ab703e432404304610e9ffdbafa
+SHA256: 857c75cf9b8ee3f920a7d669feeb7a4a075064c619091ddb854618a036fa69a3
+Section: Netskao-Tweaks
+Description: FLEXList是调用FLEX进行应用分析的工具，支持状态栏快捷唤出，支持设置列表启用/禁用，支持桌面3D启用/禁用
+Author: Netskao
+Name: FLEXList
+
+Package: netskao.fqxsnoads
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.fqxsnoads_1.1-8_iphoneos-arm.deb
+Size: 83844
+MD5sum: 186b22481f9618a5dcfb8cd94bec9f93
+SHA1: 53be73c473da2f9791db1e0135d815b195d76449
+SHA256: befa2f38cf1b9f6f8a8712c56e40b69dd53b10c06134e9e9fb6080af3e8464d3
+Section: Netskao-NoAds
+Description: 番茄小说，番茄畅听。去除启动广告，去除首页插入广告和首页更多推荐，去除我的页面小游戏和小黑屋等，解除书籍缓存限制
+Author: Netskao
+Name: 番茄小说 NoAds
+
+Package: netskao.hpnoads
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.hpnoads_1.1-7_iphoneos-arm.deb
+Size: 57188
+MD5sum: 8e9705bdcd77072e1161e58b877ace39
+SHA1: e4e1eb39b1d5f08d235d1c4921914cc6e3eafaa6
+SHA256: 8eb5a0cbdcb1dfca78860a585585d3dbdd75f5b9212ca09462eb81ad984470f8
+Section: Netskao-NoAds
+Description: 虎扑去除启动广告，去除信息流广告，去除评论中广告，去除悬浮广告，去除青少年提示，去除我的页面广告等
+Author: Netskao
+Name: 虎扑 NoAds
+
+Package: netskao.imgplaycrack
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/netskao.imgplaycrack_1.1-5_iphoneos-arm.deb
+Size: 54968
+MD5sum: 2715698c4a0ac530ccf43f2f71fd185f
+SHA1: 38a3d5c345c1f3ebac3dede578a7965743cbcd0f
+SHA256: 4e596d4d033f95291682256de1fd17f18c794da882acd9d24d33d65789a68ddb
+Section: Netskao-Cracks
+Description: ImgPlay解锁全功能
+Author: Netskao
+Name: ImgPlay Crack
+
+Package: netskao.injectipa
+Version: 1.1-7.9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 1904
+Depends: firmware (>= 11.0)
+Filename: ./debs/netskao.injectipa_1.1-7.9_iphoneos-arm.deb
+Size: 684540
+MD5sum: 46b3491139680b62da1fe3770f2cb6fa
+SHA1: 143384634d050ce364feca754209d8331db4aac4
+SHA256: 38fdc6fa9f2bfd079e4e7f1c38aeba28862dc2efbe75c2f35a5493300df2db48
+Section: Netskao-Tweaks
+Description: injectipa是一款命令行一键注入dylib到ipa工具。用法：injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行injectipa查看即可
+Author: Netskao
+Name: injectipa
+
+Package: netskao.instagramnoads
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 388
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/netskao.instagramnoads_1.2-6_iphoneos-arm.deb
+Size: 106828
+MD5sum: 0d6a924ccd1dd66a2c4460f9ccaaaeae
+SHA1: 620acab94d25d482479c90db1ba0ceeb41285cdc
+SHA256: 8e2f9d0403abf5a9582c8b3de3f94ed92897c0dbcd1f4e540bba5a9bae3086af
+Section: Netskao-NoAds
+Description: Instagram去除视图流中常规广告和赞助广告和为你推荐等，增加双击图片或视频保存到相册，增加按钮下载全部图片或视频到相册(收藏按钮旁边)，增加按钮下载快拍图片或视频到相册(更多按钮旁边)
+Author: Netskao
+Name: Instagram NoAds
+
+Package: netskao.iqiyinoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.iqiyinoads_1.2-1_iphoneos-arm.deb
+Size: 84000
+MD5sum: f710ce61013ba63c50a2d7898488339f
+SHA1: 79d3e63fc0f2069b2e8ae6cb396671ce7099c93e
+SHA256: eda34d5331f08910eecdb2489b183052f751fdd0d8eb1edfd5f5c8e481e04378
+Section: Netskao-NoAds
+Description: 爱奇艺去启动广告，去除首页顶部横幅中插入的广告，去除视频信息流中广告，去除播放页面下方推荐视频中的广告，去除播放前广告，去除播放时水印，去除播放时右侧推荐视频，去除历史播放顶部广告，去除我的页面收藏内和下载内底部推荐视频，去除我的页面公益和限时问卷和免流量服务和我的微服务和创作中心选项，去除底部随刻视频和发现按钮等
+Author: Netskao
+Name: 爱奇艺 NoAds
+
+Package: netskao.itzjnoads
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.itzjnoads_1.3-1_iphoneos-arm.deb
+Size: 57904
+MD5sum: 2af3c8c83f270fde2eba33f3e250563a
+SHA1: ad8912c5d294fc1cbe56d8a2382c17b848750e3c
+SHA256: a926150c17bc0d9bf11289d81a4af80f0f1d46e2d6ed9b0808e520e87988c400
+Section: Netskao-NoAds
+Description: IT之家去除启动广告，去除信息流中广告，去除首页信息流中置顶和直播，去除横幅中广告，去除发现页面的一些没用玩意等
+Author: Netskao
+Name: IT之家 NoAds
+
+Package: netskao.jdnoads
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.jdnoads_1.1-6_iphoneos-arm.deb
+Size: 63788
+MD5sum: 65ab8c7b51ec600b49424ec8d42386d9
+SHA1: d063971619ac6bb1648952375c1a5d16a752e73b
+SHA256: 677e802ccfae7e96302e7b2ea35478f33e720043ff4412061238543c57a4a5c7
+Section: Netskao-NoAds
+Description: 京东去除启动广告，去除搜索列表中广告商品，去除首页信息流中滚动横幅，去除首页信息流中618精选会场，去除首页下拉活动，去除首页右下角悬浮窗，去除分类页面顶部横幅，去除发现页面顶部横幅，去除购物车推荐商品，去除我的页面随机出现的悬浮窗，去除我的页面精选推荐(其他模块自带可关闭)，去除随机弹出的推广窗口，增加长按保存商品视频和评论视频
+Author: Netskao
+Name: 京东 NoAds
+
+Package: netskao.jrttnoads
+Version: 1.3-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.jrttnoads_1.3-3_iphoneos-arm.deb
+Size: 72036
+MD5sum: 0835e54106b6a432caad6a74de62696f
+SHA1: b279cc165111aed9613fc80cd044cf6b5658e583
+SHA256: be3fe9ab00bcb8feb5dfad3f5de882abd00b1b6e9bf32351ed9d4287acb420ef
+Section: Netskao-NoAds
+Description: 今日头条，今日头条专业版，今日头条极速版，去除启动广告，去除首页信息流中广告/搜索/小说/精彩小视频/邀请你来答/多少人回答了等，去除滑动视频流中广告，去除文章内右滑返回时添加到待读选项，去除西瓜视频列表中广告，去除文章底部广告，去除视频下方推荐视频中广告，去除小说内广告，去除应用内弹窗推送新闻消息，去除视频播放时右上角水印等，去除我的页面广告推广和免流量服务器按钮，增加长按视频保存到相册
+Author: Netskao
+Name: 今日头条 NoAds
+
+Package: netskao.kanosplash
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 320
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.kanosplash_1.1-3_iphoneos-arm.deb
+Size: 77884
+MD5sum: e58fd83beb09e00758c2ef993daafa29
+SHA1: cacf5636999341ca4ce6355bb70c29cce2d171fb
+SHA256: 67d6e78de72573eab103220c7fe263ed48f78b6cf8cff36133fb58b6331e82b4
+Section: Netskao-NoSplash
+Description: 酷安去除启动广告
+Author: Netskao
+Name: 酷安 NoSplash
+
+Package: netskao.killapps
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 488
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.killapps_1.1-8_iphoneos-arm.deb
+Size: 108254
+MD5sum: 2c22c0b0863ac0d08dd6edf1df5c1d94
+SHA1: 70a73f4310787c6f65a02a043ff1e2c406d360f4
+SHA256: 2274a7945137928676cab505743d10a1471e8ee44f786fd5902bc1f34e04e237
+Section: Netskao-Tweaks
+Description: 给后台切换器添加长按卡片或下滑卡片清除所有后台，支持选择清除白名单，支持选择禁止上滑黑名单等
+Author: Netskao
+Name: KillApps
+
+Package: netskao.kwyycrack
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/netskao.kwyycrack_1.2-6_iphoneos-arm.deb
+Size: 72336
+MD5sum: fcd1fd1bb37beb703b3b209498ab06eb
+SHA1: daea7c5cf5526a6573c185b37e644d9490d388b1
+SHA256: 1d390bfb2c9703b97a8f863fc654bdbf686762afc26f2eafddf136fdb46ed6f6
+Section: Netskao-Cracks
+Description: 酷我音乐解锁所有歌曲听和缓存限制，解锁所有小说听和缓存限制，解锁所有数字专辑缓存限制，解锁音效和皮肤限制，解锁非大陆地区限制，去除启动广告，去除首页底部推荐列表，去除首页随机弹出的推广提示，去除播放页面正在直播，去除首页左侧设置中没啥用的功能，去除我的页面直播和小说推广和听点别的，去除评分提示，去除顶部随机出现的直播开播提示，去除本地/下载/最近播放/收藏中的推荐，去除底部曲库/直播/视频按钮，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密kwm格式)
+Author: Netskao
+Name: 酷我音乐 Crack
+
+Package: netskao.lightrickscrack
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/netskao.lightrickscrack_1.1-4_iphoneos-arm.deb
+Size: 82080
+MD5sum: f37becf45dd74cab3128c0729bf004ef
+SHA1: fff2a46c0d7385e4065790b8490d20facea71625
+SHA256: f7320915e5419f121f7858c78d6c477ec53a0d67647f0a41163b6732c4d9a64e
+Section: Netskao-Cracks
+Description: Lightricks应用七件套解锁全功能，七件套包括（Facetune2，Photoleap，Quickart，Lightleap，Beatleap，Videoleap，Motionleap）自行AppStore下载
+Author: Netskao
+Name: Lightricks Crack
+
+Package: netskao.mgtvnoads
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.mgtvnoads_1.2-3_iphoneos-arm.deb
+Size: 59160
+MD5sum: 77b980cb3bad943d175b76b08deff0aa
+SHA1: 2d9db6563e1c7bf2dcda6ba6f40e4d23e467b28f
+SHA256: 3e31fbd5d8c39f8a2cedb9c7f3c681eea1ff2379fb9cc8923d9be00f4abb81b1
+Section: Netskao-NoAds
+Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广告，去除我的页面广告横幅和更多推荐，去除底部大芒和小芒选项，绕过越狱检测等
+Author: Netskao
+Name: 芒果TV NoAds
+
+Package: netskao.mjnoads
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 320
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.mjnoads_1.1-3_iphoneos-arm.deb
+Size: 78172
+MD5sum: f72cb86d6b47b1966dcc508a4428b26b
+SHA1: 41fa79b707d88bb7d65db2e5dbbefcb98231cd9f
+SHA256: a5a4bfa264d33618c45028af4a4929d33c5d07c9b2aeb0f60107a5c0b8018073
+Section: Netskao-NoAds
+Description: 米家去除首页横幅广告，去除我的页面横幅广告等，去除底部有品选项
+Author: Netskao
+Name: 米家 NoAds
+
+Package: netskao.mtwmnosplash
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/netskao.mtwmnosplash_1.1-1_iphoneos-arm.deb
+Size: 77816
+MD5sum: f7226e24b0a2dcf238d9006a4d81b2cf
+SHA1: 57b1ebae3d61c1f7c30980367b861b7cdb697ce6
+SHA256: 53baf43bd142d89ed978506d1d7ef68471f6d06aad4e9b2c66cb2fa06f003b9c
+Section: Netskao-NoSplash
+Description: 美团外卖去除启动广告
+Author: Netskao
+Name: 美团外卖 NoSplash
+
+Package: netskao.picsartcrack
+Version: 1.1-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/netskao.picsartcrack_1.1-5_iphoneos-arm.deb
+Size: 56448
+MD5sum: cea8de4ba2b612a15fa72cc63c3c61e9
+SHA1: 5ca6638ef724df874562bf4e05c8d02ada62c3e6
+SHA256: 6c13cb2c6057fc1ab53088ca8ec1cdeb9e7d26b08f530cb6e4b7722d5c23f243
+Section: Netskao-Cracks
+Description: PicsArt解锁全功能
+Author: Netskao
+Name: PicsArt Crack
+
+Package: netskao.ppxnoads
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 252
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/netskao.ppxnoads_1.4-2_iphoneos-arm.deb
+Size: 62332
+MD5sum: 802ce0526c67f23937410de35a7e3d0f
+SHA1: 245771204518beff0096ce182bb7f9ada7bdc497
+SHA256: ed219c49a1365137a478df6b577c4a123ad38add5b42a06b9fad1e08f7f33b23
+Section: Netskao-NoAds
+Description: 皮皮虾去广告支持皮皮虾，皮皮虾专业版。去除启动广告，去除评论广告，去除视频流广告，去除长视频播放完后结尾广告，去除视频流中皮皮虾官方活动横幅，去除随机弹出评分提示和版本内测更新提示，去除部分视频左下角商品广告，去除我的页面横幅广告和寻人按钮，去除测试版更新提示，去除AppStore评分提示，去除青少年提示，修改非详情页面时始终显示插眼而非弹幕开关，所有视频可保存为动态壁纸，保存视频和图片去水印，保存视频和图片去水印，使用原始按钮保存即可(播放时和查看时就有水印的视频不属于去水印范围)
+Author: Netskao
+Name: 皮皮虾 NoAds
+
+Package: netskao.qqpurification
+Version: 1.9-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.qqpure
+Filename: ./debs/netskao.qqpurification_1.9-9_iphoneos-arm.deb
+Size: 163932
+MD5sum: 643f2e8b79228c0a3fcff62030645520
+SHA1: 9aabc8e7540cf1675b0e471fba4067b0cbb48df7
+SHA256: d9f6c00e572c16b072f97a82c29aab2e90ae1e4dff826afa07e62f135ba86c79
+Section: Netskao-Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
+Author: Netskao
+Name: QQ净化
+
+Package: netskao.qqpurification
+Version: 1.9-9.1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 556
+Depends: mobilesubstrate, firmware (>= 9.0)
+Replaces: netskao.qqpure
+Filename: ./debs/netskao.qqpurification_1.9-9.1_iphoneos-arm.deb
+Size: 169024
+MD5sum: 1c5338bddecf6d59f236a43cbd7c793d
+SHA1: 1e91c9de2393f6fb425db464f343e4350bf43ea4
+SHA256: f649fcecbfecfd61e85609d5034ca1dbd827acbdb529b116bf800d4a012d64df
+Section: Netskao-Tweaks
+Description: QQ净化，还原聊天本质，干净的QQ给你，设置位于QQ-设置页面顶部，仅支持8.7.5及以上版本
+Author: Netskao
+Name: QQ净化
+
+Package: netskao.qqyynoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/netskao.qqyynoads_1.2-1_iphoneos-arm.deb
+Size: 82722
+MD5sum: 7443cc33eca5f99143bf63bb83374a16
+SHA1: f51bdcdfc6ee0af4a7685c75435d86f23868466f
+SHA256: d148901c43c4360bac208fbc32363f94831aa5b551a53ce32bacd45c8483f29f
+Section: Netskao-NoAds
+Description: QQ音乐去除启动广告，去除其他广告，去除推荐列表中直播和音乐馆列表中直播，去除首页顶部直播按钮，去除底部电台和扑通按钮等
+Author: Netskao
+Name: QQ音乐 NoAds
+
+Package: netskao.rrspnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.rrspnoads_1.2-1_iphoneos-arm.deb
+Size: 58372
+MD5sum: 15b5a19afb0fc1729f2d0440e2af1b5f
+SHA1: a0269c8c0c147eae9bbe1b857342dee99dcb900f
+SHA256: aab6b07fb7d41f4fd468581f8cb8afa29258b975688c34d16767d28167d69baf
+Section: Netskao-NoAds
+Homepage: https://apps.apple.com/cn/app/id1571702274
+Description: 人人视频，人人视频极速版去除启动广告，去除首页精彩推荐，去除视频流中广告，去除播放前广告，去除暂停广告，去除播放时插入广告，去除详情页面相关推荐，去除底部快看按钮等
+Author: Netskao
+Name: 人人视频 NoAds
+
+Package: netskao.shortlook.plugin.contact-photo.wechat
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 1564
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.tweak.shortlook
+Filename: ./debs/netskao.shortlook.plugin.contact-photo.wechat_1.0.6_iphoneos-arm.deb
+Size: 382040
+MD5sum: 871f4ab05aa88c5cb2e8892f02ae4f89
+SHA1: 253ae4156eed62deca5e42c3a4c280cde075d01b
+SHA256: 8f484abe5f55a81c2b15479e5580b5b94aa053dcd66b751e3f967bdc6bc97ef5
+Section: Netskao-Tweaks
+Description: Show WeChat users' profile pictures in ShortLook when you receive a WeChat notification! Fix WeChat 7.0.12+ crash.
+Author: Netskao
+Name: WeChat Contact Photos for ShortLook
+
+Package: netskao.smallbanners
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: it.dreamcode.picobanners2, netskao.picobanners2
+Filename: ./debs/netskao.smallbanners_1.2-3_iphoneos-arm.deb
+Size: 55668
+MD5sum: 6ebb600b8fde242a08a929ccc1796202
+SHA1: e3eda396089c03520f4bb0095888d3042eb2a673
+SHA256: a1961c8be1bb145e69e94967e19d58c8d9d97844a95602f373123b3846118b29
+Section: Netskao-Tweaks
+Description: Small Notification Banners. Support iOS13-14
+Author: Netskao
+Name: SmallBanners
+
+Package: netskao.smzdmnoads
+Version: 1.1-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.smzdmnoads_1.1-9_iphoneos-arm.deb
+Size: 87908
+MD5sum: b59f5eed398afcb7ef3ac67b9332893e
+SHA1: 1060cb8bd1a2de020710d0b0a5695ccb9d4d131e
+SHA256: aff7f3fa6214eb7c314ee3abac3d4afff62c73f0dd0878ddbbc3a59044a08e36
+Section: Netskao-NoAds
+Description: 什么值得买去除启动广告，去除弹窗广告，去除首页信息流中广告，去除好价信息流中广告，去除社区信息流中广告，去除搜索信息流中广告，去除好价详情页中广告等
+Author: Netskao
+Name: 什么值得买 NoAds
+
+Package: netskao.swipeselection
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/netskao.swipeselection_1.5.3_iphoneos-arm.deb
+Size: 21452
+MD5sum: d96a329700176245e68f8c170832cd72
+SHA1: 0bf60e4e6dcd2d418c50bf83629305159aff264b
+SHA256: d4bef56b0c0327ee28a45b444aeacefb665c32604f9268c429fc4a6d56ef870a
+Section: Netskao-Tweaks
+Description: 键盘内滑动快捷移动文字光标
+Author: Kyle Howells
+Name: SwipeSelection
+
+Package: netskao.tbnoads
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.tbnoads_1.2-1_iphoneos-arm.deb
+Size: 63228
+MD5sum: dab23ace07177c03d0e79ed3ce565fcc
+SHA1: 6b231e89a39d0cbc6a69219ba71ae34c727c40c5
+SHA256: a727625c423c5c989474aa8c8d5becd5c27929ef674ddedc93fde24fb528286b
+Section: Netskao-NoAds
+Description: 淘宝去除启动广告，去除搜索列表中广告商品，去除购物车推荐和订单列表中推荐商品，逛逛原始按钮保存图片/视频去除水印，增加长按商品视频评论视频保存到相册
+Author: Netskao
+Name: 淘宝 NoAds
+
+Package: netskao.twitternoads
+Version: 1.3-5.1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/netskao.twitternoads_1.3-5.1_iphoneos-arm.deb
+Size: 84484
+MD5sum: 1ec63f542db7c7a5bb89632f14fc4750
+SHA1: 2087393db7b09bfdb03538a9aaecb576dd3c52c7
+SHA256: c10dfcb9bff963e6b178d7f3fb11268787a370cbe629b83bccb6a6f1fd1bf34d
+Section: Netskao-NoAds
+Description: Twitter去除信息流中广告，去除用户信息流中的推荐关注中的推荐，去除搜索页面趋势信息流中广告，去除左侧中的广告选项和专业版选项，去除首页顶部视频和空间，禁用推特自定义字体，增加喜欢推文二次确定，增加长按视频保存到相册
+Author: Netskao
+Name: Twitter NoAds
+
+Package: netskao.txspnoads
+Version: 1.4-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 252
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.txspnoads_1.4-9_iphoneos-arm.deb
+Size: 61248
+MD5sum: 8ea0dd972e3786ae133750ab83e7053d
+SHA1: f992dcba820d80f122db452aef1211cd7950034f
+SHA256: 0e12f2da5f0df22aa6e677ca3291c193cdcf8ce4090b3ec3c924f2f40f5036fc
+Section: Netskao-NoAds
+Description: 腾讯视频去除启动广告，去除首页横幅中插入广告，去除首页下拉推广，去除首页搜索条旁边的游戏和微视按钮，去除全屏播放时暂停广告，去除全屏播放时右下角商品按钮和发电按钮，去除全屏播放时右边AI识别演员按钮，去除播放详情页周边推荐一起玩，去除青少年提示，去除随机弹出的红包提示，去除我的页面顶部随机出现的游戏红包提示，去除我的页面兴趣中心，限时推广，免流量看视频，福利中心，去除底部热点和doki选项，启用iOS13及以上设备暗黑模式等
+Author: Netskao
+Name: 腾讯视频 NoAds
+
+Package: netskao.vuecrack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/netskao.vuecrack_1.1-2_iphoneos-arm.deb
+Size: 84748
+MD5sum: 68f09388e50ca17fd69cfba6097bdd0b
+SHA1: 86c2418609d23c5e5bdc48921cc4dc339adc64ba
+SHA256: 76a2174d0dd0c1fbc976616fdd54422aef4983bdc1be9af1b58de57c52c180db
+Section: Netskao-Cracks
+Description: VUE解锁全功能，去除所有广告，增加双击视频保存到相册
+Author: Netskao
+Name: VUE Crack
+
+Package: netskao.wechatpurification
+Version: 2.0-5.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 542
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/netskao.wechatpurification_2.0-5.2_iphoneos-arm.deb
+Size: 169044
+MD5sum: f2959bd8aab7daddc9080142f35557b5
+SHA1: 6ab7560c389ae3f4624f888f4a0b9daa01382098
+SHA256: 0ed0d3106ae51dfcf927da6d1a5ce5dd1e20464b5a6e1a5d1db67cd0c04e0e53
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，支持7.0.0及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Name: 微信净化
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatpurification
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/netskao.wechatpurification_2.1-1_iphoneos-arm.deb
+Size: 284922
+MD5sum: 84031360389d050d5cf2f132a3a9cd42
+SHA1: d4b356a1f7911f5f1f53445407cd16dd82bdcdc4
+SHA256: 0c16df2c13670e2890ab0426cb2c6cad336d131a31bf302672ddf3d11fd07645
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，支持7.0.0及以上版本，设置位于微信-设置
+Author: Netskao
+Name: 微信净化
+
+Package: netskao.weibonoads
+Version: 1.7-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 336
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.weibonoads_1.7-1_iphoneos-arm.deb
+Size: 100128
+MD5sum: feed00b0e22652af751694515da90ff4
+SHA1: dec4fe255d2e4fc98b613f804caff38f98531e1b
+SHA256: 01bf5560532a5566cd2560c734e298590e73e3bbd4e6c68aa522338d5e5f6334
+Section: Netskao-NoAds
+Description: 微博去除启动广告，去除首页信息流中广告/热推/推荐，去除发现热点信息流中广告/热推/推荐，去除搜索中广告，去除视频下方广告横幅，去除评论中广告/热推/推荐，去除热搜榜页面底部潮物按钮，去除发现页面热议话题和同城热搜和中间的直播/种草/放映厅/更多按钮，去除发现页面上方的广告横幅和杂七杂八按钮和随机出现的视频广告和活动横幅广告，去除首页顶部故事和今日热点，去除首页顶部随机弹出的红包，去除首页红包悬浮窗，去除首页底部随机出现的热点悬浮窗，去除用户头像上方的挂件，去除信息卡片上的个性装饰，去除底部视频随机弹出的博主更新提示，去除底部小红点，去除进入用户详情页弹出的关注提示，去除我的页面任务和推荐关注，去除全屏视频流中的视频广告，去除视频号流中的视频广告，去除截图后分享提示，去除网址拦截，增加视频详情页面按钮保存任何视频到相册，增加视频流页面双击保存任何视频到相册，支持720P/420P/360P选择等，仅支持微博11.5.0及以上版本。微博极速版，微博国际版去除启动广告，去除信息流中广告等
+Author: Netskao
+Name: 微博 NoAds
+
+Package: netskao.wfnoads
+Version: 1.5-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wfnoads_1.5-9_iphoneos-arm.deb
+Size: 62892
+MD5sum: c765a5e3dc1d19c06388b4a36d905897
+SHA1: 4668e574e32c01d41160763a25ce7e9c3dfd42b0
+SHA256: 51fe1971a81cdacea8111b02ecdb3d1d6e608d88fff1021b1e538368604a94ff
+Section: Netskao-NoAds
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，支持6.x所有版本
+Author: Netskao
+Name: 威锋 NoAds
+
+Package: netskao.wmycrack
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 856
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.fqkj.wxmy
+Filename: ./debs/netskao.wmycrack_1.1-2_iphoneos-arm.deb
+Size: 177416
+MD5sum: 1b629de9f08f7583f6228fbe6af93b70
+SHA1: d2979953dcd29ee4683dd7bf36009647705c0cf5
+SHA256: a28914e4b025fad4bae213ea78c2ed924d2be2227bf8f7c1ee31c2b48ff63d84
+Section: Netskao-Cracks
+Description: 微密友解锁全功能(主程序和此破解同包)，支持8.0.14版本微信
+Author: Netskao
+Name: 微密友 Crack
+
+Package: netskao.wpsofficecrack
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/netskao.wpsofficecrack_1.1-1_iphoneos-arm.deb
+Size: 51060
+MD5sum: 70f6682673878c75693d961e181a1506
+SHA1: 5e37c0a449571d0a61dc5b6b85f97ff6c3566467
+SHA256: 342b449f1a4611a4030eec1efad91e6622e3c2be1fa146ee86250d32a61c3e73
+Section: Netskao-Cracks
+Homepage: https://apps.apple.com/cn/app/wps-office/id599852710
+Description: WPS Office开启一部分高级功能，但是不能下载模版，点击“更多信息”跳转下载
+Author: 7Loopy
+Name: WPS Office Crack
+
+Package: netskao.wyyyynoads
+Version: 1.2-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2116
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wyyyynoads_1.2-4_iphoneos-arm.deb
+Size: 415464
+MD5sum: f9e7317c00e626b7c0895e693c4148e0
+SHA1: 3fd37676f4afa112d29a42c69651a8cc00a156fe
+SHA256: 458888737ca0b19e50d595155c6948fb1500210fc805226ccbee1b784d6174fe
+Section: Netskao-NoAds
+Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
+Author: Netskao
+Name: 网易云音乐 NoAds
+
+Package: netskao.wyyyynoads
+Version: 1.2-5
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 2116
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wyyyynoads_1.2-5_iphoneos-arm.deb
+Size: 416144
+MD5sum: 7ea5546c4f71f20a1ba297afd551e740
+SHA1: 5b753f4a34d8a2481d6a900ee2b7179b06674216
+SHA256: 7962e917bd2148f8a1fc3b4e1a24cc04412f93244ef2e3e416d329762cece0b6
+Section: Netskao-NoAds
+Description: 网易云音乐去除启动广告，去除评论区相关信息和广告，去除首页顶部横幅中插入的广告，去除搜索页面顶部广告，去除播放页面顶部右上角在唱，去除左侧设置无关紧要选项，绕过越狱检测可收藏可评论，解除非中国地区播放限制，增加使用原始分享按钮保存任意视频到相册，增加缓存歌曲导出(下载或本地页面，歌曲操作面板导出，支持自动解密ncm格式)
+Author: Netskao
+Name: 网易云音乐 NoAds
+
+Package: netskao.xgspnoads
+Version: 1.2-6
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 272
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.xgspnoads_1.2-6_iphoneos-arm.deb
+Size: 66872
+MD5sum: 0895056af366c0b2c763efc244af845d
+SHA1: 6790ea114255149bbe193d512cf437cfa6c994bf
+SHA256: d1d9eb88a1f315f6cc8194ad634cccc38c57418874745def572cdfbd89876a77
+Section: Netskao-NoAds
+Description: 西瓜视频去除启动广告，去除视频流广告和直播，去除视频相关列表中广告，去除放映厅播放前广告，去除视频播放时右上角水印，去除青少年提示等，增加长按视频保存到相册
+Author: Netskao
+Name: 西瓜视频 NoAds
+
+Package: netskao.xhsnoads
+Version: 1.2-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.xhsnoads_1.2-4_iphoneos-arm.deb
+Size: 62364
+MD5sum: af4b46706c172f6710a3ae294beb2891
+SHA1: 1fbf028bc2256e2b50fbcc1cb044cc7e462e8686
+SHA256: 52536db3f14ad83cbb94e547e239073cb38eaf51b86cd7c0e4b4f3ee3a867582
+Section: Netskao-NoAds
+Description: 小红书去除启动广告，去除信息流视频流广告，修改原始按钮保存无水印视频，原始按钮保存无水印图片，增加双击快捷保存视频到相册
+Author: Netskao
+Name: 小红书 NoAds
+
+Package: netskao.xmlynoads
+Version: 1.1-7
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.xmlynoads_1.1-7_iphoneos-arm.deb
+Size: 82488
+MD5sum: cf59cbcc41f9289acd411149f7f4bfbb
+SHA1: e2d8beb75877d16f05e512b3deee991d5b894883
+SHA256: 5fbebdf8703f09629421ccb943de58459fbbe09389d74c6e3ee764c911cb476d
+Section: Netskao-NoAds
+Description: 喜马拉雅去除启动广告，去除推荐列表中的广告和直播，去除播放广告，去除我的页面底部广告等，禁止越狱检测弹窗
+Author: Netskao
+Name: 喜马拉雅 NoAds
+
+Package: netskao.youtubenoads
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.youtubenoads_1.2-2_iphoneos-arm.deb
+Size: 65784
+MD5sum: e8e642564e11df6da750a7eaabfae606
+SHA1: 17d77fe6457bf29dadcdec0dbf97d5610314ca9e
+SHA256: 7eb44b20df0bcdec7331a37295fa6a65fd3910bdfcba06a023340447e3d8ba36
+Section: Netskao-NoAds
+Description: YouTube去除所有广告，去除底部发视频按钮，解锁视频高画质，增加长按首页Logo可选开启后台播放音频
+Author: Netskao
+Name: YouTube NoAds
+
+Package: netskao.zhnoads
+Version: 1.3-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/netskao.zhnoads_1.3-8_iphoneos-arm.deb
+Size: 59352
+MD5sum: 9317dce8819f294e0f0f7a491df2f07c
+SHA1: 041ce70932bdc9a22ee86e3b349be2c8c548086b
+SHA256: 02fc3d923fdf9d70a3d65eae49fa78fc16be418f9ef4761b859cdf7176baa60d
+Section: Netskao-NoAds
+Description: 知乎去除启动广告，去除信息流中广告，去除答案中的广告，去除评论广告，去除随机弹出的推广窗口等
+Author: Netskao
+Name: 知乎 NoAds
+
+Package: netskao.zynoads
+Version: 1.2-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.zynoads_1.2-4_iphoneos-arm.deb
+Size: 62256
+MD5sum: af3105de579433574845b95faf26f971
+SHA1: 3ae75b4c1614a60856d01bd80eb4e29a16592760
+SHA256: d7876b355a4c3cc36ace57df85b1e0dbfec81132706ac617f0672ddbbac8f54a
+Section: Netskao-NoAds
+Description: 最右去除启动广告，去除贴间广告，去除评论广告，去除截图分享提示，去除青少年提示，增加原始按钮保存视频去水印(播放时就有水印的视频不属于去水印范围)，增加长按语音下载和分享语音
+Author: Netskao
+Name: 最右 NoAds
